@@ -1,4 +1,4 @@
-use crate::input::commands::Command;
+use super::commands::Command;
 
 pub struct ParsedArgs {
     command: Command
