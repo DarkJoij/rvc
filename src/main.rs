@@ -1,5 +1,9 @@
 mod input;
+mod macros;
+
+use input::args::get_args;
 
 fn main() {
-    println!("Welcome to RVC!");
+    let args = get_args();
+    println!("{args:#?}");
 }

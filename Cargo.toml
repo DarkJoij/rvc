@@ -2,7 +2,7 @@
 name = "rvc"
 version = "0.1.0"
 edition = "2021"
-authrs = ["Dallas"]
-description = "A Git-сompatible Version Control System based on The Rust Programming Language."
+authrs = ["DarkJoij"]
+description = "A Git-compatible Version Control System based on The Rust Programming Language."
 
 # [dependencies]

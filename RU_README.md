@@ -1,4 +1,4 @@
-[<- EN Readme](./README.md)
+[<- EN Readme](https://github.com/DarkJoij/deep-math-helper)
 
 # rvc
 Система управления версиями Rust.
