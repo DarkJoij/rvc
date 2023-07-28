@@ -1,8 +1,9 @@
 [package]
 name = "rvc"
-version = "0.1.0"
+version = "0.1.0-alpha"
 edition = "2021"
-authrs = ["DarkJoij"]
+authors = ["DarkJoij"]
+repository = "https://github.com/DarkJoij/rvc"
 description = "A Git-compatible Version Control System based on The Rust Programming Language."
 
 # [dependencies]
