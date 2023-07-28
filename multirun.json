@@ -1,3 +1,0 @@
-{
-	"test": "cargo run test -m --version=initial"
-}

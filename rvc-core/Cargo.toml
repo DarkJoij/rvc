@@ -1,0 +1,11 @@
+[package]
+name = "rvc_core"
+version = "0.1.0-alpha"
+edition = "2021"
+authors = ["DarkJoij"]
+license = "Apache-2.0"
+repository = "https://github.com/DarkJoij/rvc/tree/master/rvc-core"
+description = "The backend of the rvc CLi-application. Provides the fundamental objects of the application."
+
+[dependencies]
+rvc = "0.1.0-alpha"
